@@ -1,5 +1,5 @@
 package chap01;
-
+//solution: The code form line:9-12 should be after line:17
 public class BeerSong {
     public static void main(String[] args) {
         int beerNum = 99;
